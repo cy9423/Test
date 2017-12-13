@@ -1,0 +1,12 @@
+PODS:
+  - zhPopupController (1.0.2)
+
+DEPENDENCIES:
+  - zhPopupController (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  zhPopupController: 411af38e63764130e4ae4ba5cde12c776dc84824
+
+PODFILE CHECKSUM: 7f215ac1800048a0619ccf6a569cd187fc4821d9
+
+COCOAPODS: 1.2.1
